@@ -1,24 +1,42 @@
 
+### Hi there 👋 I'm a Computer Science student at VIT Chennai who loves to code! 
 
 
-<h2>Hi there 👋 I'm a Computer Science student at VIT Chennai who loves to code!</h2>
 
-[<img src="https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" alt="" width="60px"/>](https://www.linkedin.com/in/shivadi/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshivaditya2019i&layout=compact&theme=highcontrast&langs_count=10&hide=ShaderLab,LLVM) 
+</br>![Shivaditya github stats](https://github-readme-stats.vercel.app/api?username=sshivaditya2019&show_icons=true&theme=highcontrast)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PranavMurali&theme=dark&ring=DD0000&background=000000&stroke=FFEC00&dates=18DDD5)](https://git.io/streak-stats)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SShivaditya2019&langs_count=10&theme=tokyonight&layout=compact" alt="" /></p>
+## Languages and Frameworks:
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=SShivaditya2019&show_icons=true&theme=tokyonight" alt="" /></p>
+[<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" align="left">](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  
+[<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" align="left" />](https://www.djangoproject.com/)
+[<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50"  align="left"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img  src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" align="left" />](https://golang.org/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" align="left" />](https://isocpp.org/)
+[<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1OM-4NhKzoJyif9Y_vUwTWbrb7tejifDGw&usqp=CAU" alt="Rust" height="50" align="left"/>](https://www.rust-lang.org/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" align="left"/>](https://www.python.org/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" align="left"/>](https://www.tensorflow.org/)
+[<img  src="https://styles.redditmedia.com/t5_2qh2d/styles/communityIcon_xagsn9nsaih61.png?width=256&s=1e4cf3a17c94aecf9c127cef47bb259162283a38" alt="Bash" height="50" align="left"/>](https://www.gnu.org/software/bash/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" align="left"/>](https://www.raspberrypi.org/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" align="left"/>](https://www.linux.org/)
+[<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" align="left"/>](https://www.figma.com)
+[<img  src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" align="left"/>](https://opencv.org/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" align="left"/>](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" align="left"/>](https://keras.io/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" align="left"/>](https://www.arduino.cc/)
+[<img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" align="left"/>](https://www.r-project.org/)
+[<img  src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" align="left"/>](https://www.cprogramming.com/)
+[<img src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" alt="NextJS" height="50" align="left"/>](https://nextjs.org/)
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+## Connect with me:
+<div align="left">
+<a href="https://www.linkedin.com/in/shivadi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
-## Languages and Tools
-
-[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/react/react-original.svg" width="50px" alt="" align="left" >](https://reactjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/javascript/javascript-original.svg" width="50px" alt="" align="left" >](https://www.javascript.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/python/python-original.svg" width="50px" alt="" align="left" >](https://www.python.org/)
-[<img src="https://simpleicons.org/icons/cplusplus.svg" width="50px" alt="" align="left" >](http://www.cplusplus.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/html5/html5-original.svg" width="50px" alt="" align="left" >](https://devdocs.io/html/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/css3/css3-original.svg" width="50px" alt="" align="left" >](https://devdocs.io/css/)
-[<img src="https://cdn.svgporn.com/logos/django.svg" width="50px" alt="" align="left" >](https://www.djangoproject.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/redux/redux-original.svg" width="50px" alt="" align="left" >](https://redux.js.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" width="50px" alt="" align="left" >](https://www.tensorflow.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/bootstrap/bootstrap-plain.svg" width="50px" alt="" align="left" >](https://getbootstrap.com/)
-<img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/c/c-original.svg" width="50px" alt="" align="left" >
