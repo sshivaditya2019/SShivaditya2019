@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm a Computer Science student at VIT Chennai who loves to code! 
+### Hi there 👋 I'm a Computer Science student who loves to code! 
 
 
 
